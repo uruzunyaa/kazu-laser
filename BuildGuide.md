@@ -248,22 +248,22 @@ BLEと有線接続をした状態で、以下サイトにアクセスしてく�
 
 https://sekigon-gonnoc.github.io/BLE-Micro-Pro-WebConfigurator/
 
-- ブートローダーのアップデート
+### ブートローダーのアップデート
 Update Bootloaderのタブをクリックします。
 
 ble_micro_pro_bootloader_1_3_2を選択し、アップデートを行います。
 
-- アプリケーションアップデート
+### アプリケーションアップデート
 Update Applicationのタブへ移動します。
 
 ble_micro_pro_vial_1_3_6を選択し、アップデートします。
 
-
-- キーボードの設定
+### キーボードの設定
 Edit configのタブへ移動します。
+
 Select keyboardの中から、 ble_micro_pro を選択します。
 
-- kazu-laserの設定を書き込む
+### kazu-laserの設定を書き込む
 以下のファイルをダウンロードし、BLEMicropro のストレージ直下にアップロードしてください。
 
 https://github.com/uruzunyaa/kazu-laser/blob/main/kazu_laser_config.bin
@@ -272,11 +272,13 @@ https://github.com/uruzunyaa/kazu-laser/blob/main/kazu_laser_config.bin
 
 ### キーマップの設定
 キーマップの設定を行います。以下サイトにアクセスし、キーボードを選択し接続します。
+
 https://sekigon-gonnoc.github.io/via-custom-ui-for-vial/
 
 UP SETTING から以下のデフォルトキーマップをアップロードするか、Keymapをクリックし、手動で編集を行ってください。
 
 デフォルトキーマップは以下のようになっています。
+
 ![Keymap](https://github.com/uruzunyaa/kazu-laser/blob/main/image/defalt%20keymap.png)
 
 使用ソフトに合わせてご使用ください。
