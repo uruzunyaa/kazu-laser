@@ -208,7 +208,9 @@ BLEへコンスルーの取り付けが出来たら、そのまま基盤にも�
 
 ※12ピンのコンスルーを使っている方は、USBポート側に寄せて使ってください。
 
-![switchplate](https://github.com/uruzunyaa/kazu-laser/blob/main/image/switchplate.png)
+![BLE](https://github.com/uruzunyaa/kazu-laser/blob/main/image/BLE.jpg)
+
+差し込んだら、BLE Micropro側のみはんだ付けします。 (はんだ付けしなくても動作しますが、BLEを外したくなった時、上手く外す事が出来ません。)
 
 ### 動作確認等
 組み立ては後ネジを取り付ければ完了です。ネジを取り付ける前に、動作確認を行いましょう。
