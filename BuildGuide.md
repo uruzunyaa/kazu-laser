@@ -241,6 +241,9 @@ BLEへコンスルーの取り付けが出来たら、そのまま基盤にも�
 ### BLE Micro proの設定
 まず、BLE Micropro本体を、kazu-laserであると認識させるための設定を行います。
 
+ここは動画版に設定デモがあるので、分かりにくい場合は動画版もご参照ください。
+[https://www.youtube.com/watch?v=zEUvSC2t4i8](https://youtu.be/zEUvSC2t4i8?si=E2XbTMDPBJJxyKCP&t=545)
+
 BLEと有線接続をした状態で、以下サイトにアクセスしてください。
 
 https://sekigon-gonnoc.github.io/BLE-Micro-Pro-WebConfigurator/
@@ -250,21 +253,15 @@ Update Bootloaderのタブをクリックします。
 
 ble_micro_pro_bootloader_1_3_2を選択し、アップデートを行います。
 
-![Bootloader Update](https://github.com/uruzunyaa/kazu-laser/blob/main/image/Update%20Bootloader.png)
-https://github.com/uruzunyaa/kazu-laser/blob/main/image/Update%20Bootloader.png
-
 - アプリケーションアップデート
 Update Applicationのタブへ移動します。
 
 ble_micro_pro_vial_1_3_6を選択し、アップデートします。
 
-![Application Update](https://github.com/uruzunyaa/kazu-laser/blob/main/image/Update%20Application.png)
 
 - キーボードの設定
 Edit configのタブへ移動します。
 Select keyboardの中から、 ble_micro_pro を選択します。
-
-![Keyboard Setting](https://github.com/uruzunyaa/kazu-laser/blob/main/image/Keyboard%20Setting.png)
 
 - kazu-laserの設定を書き込む
 以下のファイルをダウンロードし、BLEMicropro のストレージ直下にアップロードしてください。
