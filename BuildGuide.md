@@ -1,6 +1,10 @@
 # Build Guide
 こちらは自作キーボードキット kazu-laser のビルドガイドになります。
 
+動画版もありますので、併せてご参照ください。
+
+https://www.youtube.com/watch?v=zEUvSC2t4i8
+
 ## はじめに
 この度は、「kazu-laser」をお買い上げいただきまして誠にありがとうございます。
 
