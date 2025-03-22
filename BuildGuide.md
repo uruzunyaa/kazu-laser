@@ -17,6 +17,12 @@ https://www.youtube.com/watch?v=zEUvSC2t4i8
 組立工程の中には、ハンダ付けや細いねじを締める工程があります。
 あらかじめ必要な工具（後述）を用意した上で、組立を始めてください。
 
+キット内容物の不足や不明点等ありましたら、以下連絡先のいずれかにご連絡ください。
+
+X: [@uruzunyaa](https://x.com/uruzunyaa)
+
+mail: uruzunyaa@gmail.com
+
 ![kazu-laser](https://github.com/uruzunyaa/kazu-laser/blob/main/image/DoneBuild.jpg)
 
 ## Parts
