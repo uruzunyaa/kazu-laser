@@ -3,7 +3,7 @@ Github版:
 https://github.com/uruzunyaa/kazu-laser/blob/main/BuildGuide.md
 
 動画版:
-https://www.youtube.com/watch?v=zEUvSC2t4i8
+https://youtu.be/0Nv8w4uQoc8
 
 ## デフォルトキーマップ
 
