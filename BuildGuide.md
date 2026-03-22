@@ -33,6 +33,7 @@ mail: uruzunyaa@gmail.com
 現在のビルドガイドはkazu-laser.v2用になっています。
 
 旧バージョンではBLE Micro Pro の昇圧回路付き (BMP Boost) を使う事が出来ません。
+
 ※新バージョン(v2)でも古いBLE Micro Proを用いる事は可能です。 組み立て手順も特に変化しません。
 
 ## Parts
