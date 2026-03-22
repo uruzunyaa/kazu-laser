@@ -193,7 +193,7 @@ mail: uruzunyaa@gmail.com
 
 ### スライドスイッチを取り付ける
 
-![resetswitch](https://github.com/uruzunyaa/kazu-laser/blob/main/image/list/resetswitch.png)
+![resetswitch](https://github.com/uruzunyaa/kazu-laser/blob/main/image/list/slideswitch.png)
 
 向きはありません。はんだ付けをして、足を切ります。
 
