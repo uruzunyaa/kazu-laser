@@ -281,7 +281,7 @@ ble_micro_pro_vial_1_4_0を選択し、アップデートします。
 ### キーボードの設定
 Edit configのタブへ移動します。
 
-Select keyboardの中から、 ble_micro_pro を選択します。
+Select keyboardの中から、 ble_micro_pro を選択し、アップデートを行います。
 
 ### kazu-laserの設定を書き込む
 以下のファイルをダウンロードし、BLEMicropro のストレージ直下にアップロードしてください。
